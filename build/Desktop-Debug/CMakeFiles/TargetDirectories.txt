@@ -1,0 +1,7 @@
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/Serial_Test.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/install.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/justone/Serial_Test/build/Desktop-Debug/CMakeFiles/install/strip.dir
