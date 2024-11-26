@@ -4,7 +4,7 @@
 
 int main() {
     sp_port* port;
-    const char* port_name = "/dev/ttyS3"; // Replace with your serial port name
+    const char* port_name = "/dev/ttyACM0"; // Replace with your serial port name
 
     // Find and open the port
     if (sp_get_port_by_name(port_name, &port) != SP_OK) {
